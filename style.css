@@ -256,14 +256,16 @@ body {
         text-align: center;
         flex-wrap: wrap;
         justify-content: space-between;
+        align-items: center;
     }
 
     .categories p{
         flex-direction: row;
         gap: 10px;
         flex-wrap: wrap;
-        flex-basis: 25%;
+        flex-basis: 20%;
         align-items: center;
+        text-align: center;
     }
 
     .popularcard {
